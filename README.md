@@ -66,25 +66,25 @@ A full-stack Task Management System built with **Java Spring Boot, MySQL, and Re
 ## Screenshots
 
 ### Login Page
-![Login Page](./public/Screenshots/Login.png)
+![Login](Frontend/task-management-frontend/public/Screenshots/Login.png)
 
 ### Register Page
-![Register Page](./public/Screenshots/Register.png)
+![Register](Frontend/task-management-frontend/public/Screenshots/Register.png)
 
-### Admin Dashboard - Task Creation Form
-![Admin Dashboard Form](./public/Screenshots/Admin_DashBoard_Form.png)
+### Admin Dashboard Form
+![Admin Dashboard Form](Frontend/task-management-frontend/public/Screenshots/Admin_DashBoard_Form.png)
 
-### Admin Dashboard - View Tasks
-![Admin View Task](./public/Screenshots/Admin_View_Task.png)
+### Admin View Tasks
+![Admin View Tasks](Frontend/task-management-frontend/public/Screenshots/Admin_View_Task.png)
 
-### User Dashboard - First User
-![First User Dashboard](./public/Screenshots/First_User_Dashboard.png)
+### First User Dashboard
+![First User Dashboard](Frontend/task-management-frontend/public/Screenshots/First_User_Dashboard.png)
 
-### User Dashboard - Second User
-![Second User Dashboard](./public/Screenshots/Second_User_Dashboard.png)
+### Second User Dashboard
+![Second User Dashboard](Frontend/task-management-frontend/public/Screenshots/Second_User_Dashboard.png)
 
-### Database - Roles
-![Database Roles](./public/Screenshots/Database_Role_Based.png)
+### Database - Role Based
+![Database Role Based](Frontend/task-management-frontend/public/Screenshots/Database_Role_Based.png)
 
 ### Database - Tasks
-![Database Tasks](./public/Screenshots/Database_Tasks.png)
+![Database Tasks](Frontend/task-management-frontend/public/Screenshots/Database_Tasks.png)
